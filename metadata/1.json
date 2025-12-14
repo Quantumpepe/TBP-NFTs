@@ -1,7 +1,7 @@
 {
   "name": "TBP-AI Gold Key",
   "description": "TBP-AI Genesis Access. Fixed price 60 USD. Grants full AI access.",
-  "image": "https://quantumpepe.github.io/TBP-NFTs/images/gold.png",
+  "image": "https://quantumpepe.github.io/TBP-NFTs/NFT-Gold.png",
   "attributes": [
     { "trait_type": "Tier", "value": "Gold" },
     { "trait_type": "Access", "value": "Full AI Access" }
